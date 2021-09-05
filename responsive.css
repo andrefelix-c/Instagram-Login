@@ -1,0 +1,19 @@
+@media screen and (max-width: 1024px) {
+    .instagram-box {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .instagram-box {
+        width: 90%;
+    }
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+}
